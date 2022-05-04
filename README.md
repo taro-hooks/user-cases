@@ -9,6 +9,7 @@
   "projectNew": {
     "name": "（必填）用名",
     "url": "（必填）二维码图片地址",
+    "description": "（必填）描述",
     "framework": "（可选） 开发使用的框架，例如： 'react' , 'vue2' , 'vue3' , 'nerv'",
     "taroVersion": "（可选）使用 Taro 的哪一个版本，例如 '1', '2', '3' 或者具体的版本又如 '3.2.0'",
     "screenshot": "(可选) 小程序截图 "
@@ -23,6 +24,7 @@
 {
   "taroHooksDemo": {
     "name": "示例小程序",
+    "description": "taro-hooks 配套示例小程序",
     "url": "https://cdn.jsdelivr.net/gh/innocces/DrawingBed/2021-8-16/1629044960619-hooks.jpeg",
     "framework": "react",
     "taroVersion": "3.3.40",
